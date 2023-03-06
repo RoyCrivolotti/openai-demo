@@ -1,0 +1,64 @@
+### Language and frameworks ###
+
+# Basics
+*.py[cod]
+__pycache__
+.python-version
+
+# pip-compile
+src/
+
+# Patches
+*.patch
+
+# Logs
+*.log
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+dist/
+
+# npm
+node_modules/
+
+# Media
+staticfiles
+
+.env
+.venv
+venv
+
+.cache/
+
+### Text Editors and IDEs
+# Pycharm
+.idea
+.run/
+
+# Vim
+*~
+*.swp
+*.swo
+.vim
+
+# VisualStudioCode
+.vscode
+.devcontainer
+
+staticfiles
+locale
+coverage.xml
+.coverage.*
+
+# OS specific
+.DS_Store
+
+# mypy
+.mypy_cache
+
+# pip-compile
+/src/
