@@ -1,5 +1,5 @@
 openai
-numpy
-pandas
-matplotlib
-seaborn
+# numpy
+# pandas
+# matplotlib
+# seaborn
