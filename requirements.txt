@@ -1,5 +1,3 @@
 openai
-# numpy
-# pandas
-# matplotlib
-# seaborn
+pydub
+decouple
