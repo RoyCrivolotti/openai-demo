@@ -1,0 +1,60 @@
+# Basics
+*.py[cod]
+__pycache__
+.python-version
+
+# Patches
+*.patch
+
+# Logs
+*.log
+pip-log.txt
+
+# Unit test / coverage reports
+.coverage
+.tox
+nosetests.xml
+
+dist/
+
+# npm
+node_modules/
+
+# Media
+media/*
+
+.ipynb_checkpoints
+
+.env
+.venv
+venv
+
+.cache/
+
+### Text Editors and IDEs
+# Pycharm
+.idea
+.run/
+
+# Vim
+*~
+*.swp
+*.swo
+.vim
+
+# VisualStudioCode
+.vscode
+.devcontainer
+
+a
+locale
+coverage.xml
+.coverage.*
+
+# OS specific
+.DS_Store
+
+# mypy
+.mypy_cache
+
+.ipynb_checkpoints/
